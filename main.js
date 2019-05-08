@@ -5,7 +5,7 @@ $(document).ready(function() {
 $(function(){
     if($(window).width() > 640) {
         $("#typingAnimation").typed({
-          strings: ["Engineer", "Aspiring entrepreneur", "Eclectically curious", "Thinker & Do-er", "Passionate techie", "Keen eye for good design", "Basketball fanatic", "Part-time guitarist", "Builder of cool products", "Film aficionado", "Bookworm", "Science enthusiast", "Ambitious philomath", "Armchair economist"],
+          strings: ["Software Developer", "Aspiring entrepreneur", "Eclectically curious", "Thinker & Do-er", "Passionate techie", "Keen eye for good design", "Football fanatic", "Love Cooking", "Builder of cool products", "Film aficionado", "Traveller", "Science enthusiast", "Business-Oriented", "Love family"],
           typeSpeed: 50,
           backDelay: 1000,
           loop: true,
